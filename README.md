@@ -54,22 +54,22 @@ Restaurant_Management_System/
 ---
 
 ## 📂 Screrenshots:
-<img width="1897" height="866" alt="Screenshot 2026-02-20 042439" src="https://github.com/user-attachments/assets/df257c7a-1373-41c1-b667-b3d652952077" />
-<img width="1919" height="866" alt="Screenshot 2026-02-20 042412" src="https://github.com/user-attachments/assets/4db04131-4aa4-4b7e-88b0-b6f12272c90f" />
-<img width="1900" height="866" alt="Screenshot 2026-02-20 042335" src="https://github.com/user-attachments/assets/10c895ef-8093-47ed-8c79-d4cbd1bfb717" />
-<img width="1901" height="870" alt="Screenshot 2026-02-20 042236" src="https://github.com/user-attachments/assets/9d36be8c-0b25-4c8f-bc39-0915beaf04d6" />
-<img width="1896" height="866" alt="Screenshot 2026-02-20 042135" src="https://github.com/user-attachments/assets/f074046e-21a5-451a-8f3d-d4f87f8b4759" />
-<img width="1897" height="864" alt="Screenshot 2026-02-20 042113" src="https://github.com/user-attachments/assets/c71668f7-4049-4317-8ed5-15cd8cb0d8a1" />
-<img width="1427" height="889" alt="Screenshot 2026-02-20 043224" src="https://github.com/user-attachments/assets/e13b3f23-1370-429f-a06c-62844d6870e9" />
-<img width="1919" height="860" alt="Screenshot 2026-02-20 042847" src="https://github.com/user-attachments/assets/5183e736-91c8-43fe-bb49-8c9ea9e3f4e3" />
-<img width="1919" height="871" alt="Screenshot 2026-02-20 042755" src="https://github.com/user-attachments/assets/710a4fa3-caf2-4025-859c-518b840ea8cf" />
-<img width="1919" height="871" alt="Screenshot 2026-02-20 042633" src="https://github.com/user-attachments/assets/a3ea34f5-7203-43e4-94d4-f5f0589f0e37" />
-<img width="1919" height="864" alt="Screenshot 2026-02-20 042603" src="https://github.com/user-attachments/assets/4b088c4c-a32a-47cd-8b57-10e81d006192" />
-<img width="1898" height="870" alt="Screenshot 2026-02-20 042534" src="https://github.com/user-attachments/assets/b7ff8115-2016-4df8-9d0e-e719ccda2625" />
 
-
+<img width="1897" height="864" alt="Screenshot 2026-02-20 042113" src="https://github.com/user-attachments/assets/990cb028-40f0-4d6b-969e-1f450007d399" />
+<img width="1896" height="866" alt="Screenshot 2026-02-20 042135" src="https://github.com/user-attachments/assets/d2b65780-cda3-49e1-aeab-7e7d2c4d3965" />
+<img width="1901" height="870" alt="Screenshot 2026-02-20 042236" src="https://github.com/user-attachments/assets/086dd96c-3ae2-4e94-9e09-27c647c66ca1" />
+<img width="1900" height="866" alt="Screenshot 2026-02-20 042335" src="https://github.com/user-attachments/assets/e758d71c-a640-4d1a-81df-8d23e8f524ef" />
+<img width="1919" height="866" alt="Screenshot 2026-02-20 042412" src="https://github.com/user-attachments/assets/ab9dc11a-a0c4-490f-9fbc-f4f617f696b4" />
+<img width="1897" height="866" alt="Screenshot 2026-02-20 042439" src="https://github.com/user-attachments/assets/22a8bd5a-9d7c-45e7-aa7a-f5c4cba52ac2" />
+<img width="1919" height="860" alt="Screenshot 2026-02-20 042847" src="https://github.com/user-attachments/assets/5d9eb04f-b093-422f-b1ad-bf7701d994f0" />
+<img width="1898" height="870" alt="Screenshot 2026-02-20 042534" src="https://github.com/user-attachments/assets/9ed61c0d-fd9e-4061-b481-74e757e3efac" />
+<img width="1919" height="864" alt="Screenshot 2026-02-20 042603" src="https://github.com/user-attachments/assets/50b9940f-45c9-4216-a320-adfb9aa3de03" />
+<img width="1919" height="871" alt="Screenshot 2026-02-20 042633" src="https://github.com/user-attachments/assets/6d3ffc4c-8155-4067-a691-98501f90d929" />
+<img width="1919" height="871" alt="Screenshot 2026-02-20 042755" src="https://github.com/user-attachments/assets/83d9da34-8982-43a5-aaad-2232068cd7d8" />
+<img width="1427" height="889" alt="Screenshot 2026-02-20 043224" src="https://github.com/user-attachments/assets/9a647d12-6c17-4e3a-8eb9-ca95be8c6aa9" />
 
 ## ⚙️ Installation & Setup
+![Uploading Screenshot 2026-02-20 042847.png…]()
 
 ### 1️⃣ Clone the Repository
 
